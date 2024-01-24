@@ -9,6 +9,21 @@ p {
    text-align: center; 
 }
 
+footer {
+    text-align: center;
+}
+
+.facebook-icon {
+    color: blue;
+}
+
+.instagram-icon {
+    color: rgb(226, 43, 195);
+}
+
+.email-icon {
+    color: aqua;
+}
 /* font-family: 'Kanit', sans-serif;
 font-family: 'Noto Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
